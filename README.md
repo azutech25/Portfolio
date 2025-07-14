@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Uthman Abdulazeez
 
-Cybersecurity professional (in progress)  | OSINT Investigator  | Web App Tester  | System Engineering Student  | Gadget Repair Technician  | Content & Frontend Explorer 
+Cybersecurity professional (in progress)  | OSINT Investigator  | Web App Tester | Gadget Repair Technician  | Content & Frontend Explorer 
 
 I’m a hands-on security learner with strong experience in digital investigations, vulnerability assessment, penetration testing, and technical repairs. I'm currently focused on threat intelligence, web app security, and frontend scripting with JavaScript.
 
