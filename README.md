@@ -25,7 +25,7 @@ I’m a hands-on security learner with strong experience in digital investigatio
   - Cisco Cybersecurity and Networking certifications
 
 ###  Risk Assessment & Team Projects
-- Served as *Research Lead & Team Manager* for Techyjaunt Cybersecurity Project 2024.
+- Served as *Research Lead & Team Manager* for Techyjaunt Cybersecurity Project 2024. https://github.com/azutech25/Portfolio/blob/main/reports/TECHY%20JAUNT%20PROJECT%20WORK.pdf
   - Conducted daily risk assessments for startups.
   - Analyzed operations, risk appetite, and security posture.
   - Developed compliance frameworks and risk management plans.
