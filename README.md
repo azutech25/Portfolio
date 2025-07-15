@@ -57,7 +57,7 @@ https://github.com/azutech25/Portfolio/blob/main/reports/CoAce_Security_Guide%20
 - JavaScript scripting for automation and security
 - Advanced penetration testing techniques (XSS, SQLi, CSRF, SSRF)
 - Vulnerability reporting and CVSS scoring
-- Ethical use of ChatGPT and Python for security automation
+- using tools such as OpenAI API, Shodan, and custom Python scripts to streamline security workflows.
 
 ---
 
