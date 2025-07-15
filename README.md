@@ -45,7 +45,8 @@ I’m a hands-on security learner with strong experience in digital investigatio
 - Created awareness graphics and project posters using Canva and Figma.
 - Designed interactive layouts and content for personal and group-based tech campaigns.
 
-###  CoAce – Web Education App | Security Lead (Ongoing)
+###  CoAce – Web Education App | Security Lead (Ongoing)  
+https://github.com/azutech25/Portfolio/blob/main/reports/CoAce_Security_Guide%20for%20develpers.pdf
 - Led security implementation and threat modeling for a student learning platform.
 - Collaborated with cross-functional teams to ensure best security practices across design and development.
 - Oversaw risk assessments and guided secure workflow setup from idea to implementation.
