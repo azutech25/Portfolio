@@ -19,7 +19,7 @@ I’m a hands-on security learner with strong experience in digital investigatio
   - *Vulnerability scan and professional reporting* on a website using BWAPP via Dockerized lab. https://github.com/azutech25/Portfolio/blob/main/reports/Digitanotion%20-%20bWAPP%20Vulnerability%20Scan%20Report%20%20(1).docx
   - *OWASP Juice Shop testing* to identify and report vulnerabilities, apply secure design recommendations, and assess overall web risk.
 
-- Completed practical challenges on platforms like:
+- Completed practical challenges on platforms like: https://tryhackme.com/p/Azutech
   - TryHackMe (13+ rooms completed: Pyramid of pain, Junior SOC Analyst , Pentester Fundamenter, Hip Flask, Windows Incident Surface, etc.)
   -  job Simulation On Forage FOR Mastercard and AIG
   - Cisco Cybersecurity and Networking certifications
