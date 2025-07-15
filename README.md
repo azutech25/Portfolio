@@ -38,7 +38,7 @@ I’m a hands-on security learner with strong experience in digital investigatio
 - Completed frontend training using *HTML, CSS, JavaScript*
 - Built and deployed:
   -  *Dice App*
-  -  *Guess The Number Game*
+  -  *Guess The Number Game* https://github.com/azutech25/Portfolio/tree/main/MY%20project
 - Working towards integrating frontend skills into cybersecurity tools and reporting interfaces.
 
 ###  Content & Graphic Design
