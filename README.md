@@ -9,7 +9,7 @@ I’m a hands-on security learner with strong experience in digital investigatio
 ##  What I've Worked On
 
 ###  OSINT & Digital Investigation
-- Investigated real cyber complaint reports using OSINT tools.
+- Investigated real cyber complaint reports using OSINT tools. https://github.com/azutech25/Portfolio/blob/main/reports/Challenge%20(Strengthening%20our%20Defence)%20DigitalNotion.docx
 - Conducted threat assessments, developed risk plans, and wrote full reports with structured sections like complaint overview, risk assessment, and resolution.
 - Tools used: Google Dorking, Google reverse image search, ExifTool, TinEye, Yandex, Spiderfoot etc.
 
