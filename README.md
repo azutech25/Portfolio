@@ -16,7 +16,7 @@ I’m a hands-on security learner with strong experience in digital investigatio
 ###  Penetration Testing & Vulnerability Assessment
 - Participated in live projects during the *DigitalNotion Internship Program*, including:
   - *Black-box penetration test* using a photo to uncover sensitive OSINT about a client's infrastructure.
-  - *Vulnerability scan and professional reporting* on a website using BWAPP via Dockerized lab.
+  - *Vulnerability scan and professional reporting* on a website using BWAPP via Dockerized lab. https://github.com/azutech25/Portfolio/blob/main/reports/Digitanotion%20-%20bWAPP%20Vulnerability%20Scan%20Report%20%20(1).docx
   - *OWASP Juice Shop testing* to identify and report vulnerabilities, apply secure design recommendations, and assess overall web risk.
 
 - Completed practical challenges on platforms like:
