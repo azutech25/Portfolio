@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Uthman Abdulazeez
+# 👋🏽 Hi, I'm Abdulazeez Uthman
 
 Cybersecurity professional (in progress)  | OSINT Investigator  | Web App Tester | Gadget Repair Technician  | Content & Frontend Explorer 
 
