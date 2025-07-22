@@ -63,7 +63,7 @@ https://github.com/azutech25/Portfolio/blob/main/reports/CoAce_Security_Guide%20
 
 ##  Tools & Platforms
 
-Metasploit, Linux, OWASP ZAP, Nmap, Wireshark, TryHackMe, Kali Linux, Sherlock, ExifTool, Docker, Cisco Packet Tracer, Visual Studio Code, Git, Canva, Figma
+Metasploit, Linux, OWASP ZAP, Nmap, Wireshark, TryHackMe, Forage,  Kali Linux, Sherlock, ExifTool, Google Earth pro, Google Docking, Docker, Cisco Packet Tracer, Visual Studio Code, Git, Canva, Figma
 
 ---
 
