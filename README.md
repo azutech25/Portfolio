@@ -10,8 +10,11 @@ I’m a hands-on security learner with strong experience in digital investigatio
 
 ###  OSINT & Digital Investigation
 - Investigated real cyber complaint reports using OSINT tools. https://github.com/azutech25/Portfolio/blob/main/reports/Knowledge%20Check%20and%20Challenge%20-%20Investigating%20the%20Unknown_%20An%20OSINT%20Challenge.docx
+- Tracing Shadows, “The Orkla: Dragon Con Detective” Investigation.   https://medium.com/@azutech/tracing-shadows-the-orkla-dragon-con-detective-investigation-walkthrough-e69aa697b26c
+- Github profile Investigation Challenge.   https://medium.com/@azutech/tracing-shadows-the-orkla-dragon-con-detective-investigation-walkthrough-e69aa697b26c
+- email investigation challenge.   https://medium.com/@azutech/tracing-shadows-the-orkla-dragon-con-detective-investigation-walkthrough-e69aa697b26c
 - Conducted threat assessments, developed risk plans, and wrote full reports with structured sections like complaint overview, risk assessment, and resolution.
-- Tools used: Google Dorking, Google reverse image search, ExifTool, TinEye, Yandex, Spiderfoot etc.
+- Tools used: Google Dorking, ExifTool, TinEye, Yandex, Spiderfoot, Maltelgo, Epieos,Whois lookup, wayback archive, holehe  etc.
 
 ###  Penetration Testing & Vulnerability Assessment
 - Participated in live projects during the *DigitalNotion Internship Program*, including:  https://github.com/azutech25/Portfolio/blob/main/reports/Challenge%20(Strengthening%20our%20Defence)%20DigitalNotion.docx
